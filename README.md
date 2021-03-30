@@ -4,8 +4,9 @@
 I am currently working in Avalanche info. tech
 <br>
 ## Technical Skills
+<br>
   <ul>
-    <li>C</li>
+    <li><a href='https://google.com'>C</a></li>
     <li>C++</li>
     <li>JAVA</li>
   </ul>
