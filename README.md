@@ -1,4 +1,7 @@
 ### Hi there 👋
+## I'm Aryan Laddha
+<br>
+I am currently working in Avalanche info. tech
 
 <!--
 **aryan-laddha/aryan-laddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
