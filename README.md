@@ -3,7 +3,8 @@
 <br>
 I am currently working in Avalanche info. tech
 <br>
-### Technical Skills
+
+## Technical Skills
 <br>
   <ul>
     <li><a href='https://google.com'>C</a></li>
