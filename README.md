@@ -2,6 +2,13 @@
 ## I'm Aryan Laddha
 <br>
 I am currently working in Avalanche info. tech
+<br>
+## Technical Skills
+  <ul>
+    <li>C</li>
+    <li>C++</li>
+    <li>JAVA</li>
+  </ul>
 
 <!--
 **aryan-laddha/aryan-laddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
