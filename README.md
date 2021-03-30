@@ -11,6 +11,8 @@ I am currently working in Avalanche info. tech
     <li>C++</li>
     <li>JAVA</li>
   </ul>
+  
+  <img src='https://cdn.7boats.com/academy/wp-content/uploads/2017/04/google-images.jpg' size='90' style="height:100px;width:100px"/>
 
 <!--
 **aryan-laddha/aryan-laddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
