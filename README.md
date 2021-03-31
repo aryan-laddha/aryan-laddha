@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋                                                                                                
 ## I'm Aryan Laddha
 <br>
  A motivated and personable student pursuing a BTech in computer engineering from Bharati Vidyapeeth deemed university. Quest to work and learn in a real professional and vying ambience that enable me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge. 
@@ -9,7 +9,6 @@
   <ul>
     <li><a href='https://google.com'>C</a></li>
     <li>C++</li>
-    <li>JAVA</li>
   </ul>
   
   <img src='https://cdn.7boats.com/academy/wp-content/uploads/2017/04/google-images.jpg' size='90' style="height:100px;width:100px"/>
