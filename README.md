@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I'm Aryan Laddha
 <br>
-I am currently working in Avalanche info. tech
+ A motivated and personable student pursuing a BTech in computer engineering from Bharati Vidyapeeth deemed university. Quest to work and learn in a real professional and vying ambience that enable me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge. 
 <br>
 
 ## Technical Skills
