@@ -21,7 +21,7 @@
 <br>
   <ul>
  <li><a href='http://linkedin.com/in/aryanladdha'>LinkedIn</a></li>
- <li><a href='http://hackerrank.com/aryanladdha01>HackerRank</a></li>
+ <li><a href='http://hackerrank.com/aryanladdha01'>HackerRank</a></li>
 </ul>
 <br>
 
