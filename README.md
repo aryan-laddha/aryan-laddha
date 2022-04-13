@@ -7,15 +7,21 @@
 ## Links
 <br>
   <ul>
- <li><a href='http://linkedin.com/in/aryanladdha'>C</a></li>
-  </ul>
+ <li><a href='http://linkedin.com/in/aryanladdha'>LinkedIn</a><\li>
+ <li><a href='http://hackerrank.com/aryanladdha01>LinkedIn</a><\li>
+</ul>
 </br>
 
 ## Technical Skills
 <br>
   <ul>
     <li><a href='https://google.com'>C</a></li>
-    <li>C++</li>
+    <li>Problem Solving</li>
+    <li>C/C++</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>Web devlopment</li>
+     
   </ul>
   
   <img src='https://cdn.7boats.com/academy/wp-content/uploads/2017/04/google-images.jpg' size='90' style="height:100px;width:100px"/>
