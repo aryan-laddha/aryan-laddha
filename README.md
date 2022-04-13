@@ -4,17 +4,8 @@
 <br>
  A motivated and personable student pursuing a BTech in computer engineering from Bharati Vidyapeeth deemed university. Quest to work and learn in a real professional and vying ambience that enable me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge. 
 <br>
-
-## Links
-<br>
-  <ul>
- <li><a href='http://linkedin.com/in/aryanladdha'>LinkedIn</a><\li>
- <li><a href='http://hackerrank.com/aryanladdha01>HackerRank</a></li>
-</ul>
-<br>
-
 ## Technical Skills
- <br>
+<br>
   <ul>
     <li><a href='https://google.com'>C</a></li>
     <li>Problem Solving</li>
@@ -24,8 +15,17 @@
     <li>Web devlopment</li>
      
   </ul>
+## Links
+<br>
+  <ul>
+ <li><a href='http://linkedin.com/in/aryanladdha'>LinkedIn</a><\li>
+ <li><a href='http://hackerrank.com/aryanladdha01>HackerRank</a></li>
+</ul>
+<br>
+
+
   
-  <img src='https://cdn.7boats.com/academy/wp-content/uploads/2017/04/google-images.jpg' size='90' style="height:100px;width:100px"/>
+
 
 <!--
 **aryan-laddha/aryan-laddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
