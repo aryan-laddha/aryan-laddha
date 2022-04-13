@@ -4,6 +4,13 @@
  A motivated and personable student pursuing a BTech in computer engineering from Bharati Vidyapeeth deemed university. Quest to work and learn in a real professional and vying ambience that enable me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge. 
 <br>
 
+## Links
+<br>
+  <ul>
+ <li><a href='http://linkedin.com/in/aryanladdha'>C</a></li>
+  </ul>
+</br>
+
 ## Technical Skills
 <br>
   <ul>
