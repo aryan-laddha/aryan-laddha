@@ -1,5 +1,6 @@
 ### Hi there 👋                                                                                                
 ## I'm Aryan Laddha
+
 <br>
  A motivated and personable student pursuing a BTech in computer engineering from Bharati Vidyapeeth deemed university. Quest to work and learn in a real professional and vying ambience that enable me to cope with the emerging as well as latest technology and scope for widening the spectrum of my knowledge. 
 <br>
@@ -8,12 +9,12 @@
 <br>
   <ul>
  <li><a href='http://linkedin.com/in/aryanladdha'>LinkedIn</a><\li>
- <li><a href='http://hackerrank.com/aryanladdha01>LinkedIn</a><\li>
+ <li><a href='http://hackerrank.com/aryanladdha01>HackerRank</a></li>
 </ul>
-</br>
+<br>
 
 ## Technical Skills
-<br>
+ <br>
   <ul>
     <li><a href='https://google.com'>C</a></li>
     <li>Problem Solving</li>
